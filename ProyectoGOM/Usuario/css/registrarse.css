@@ -1,0 +1,367 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#registro{
+    position: absolute;
+    overflow: visible;
+	width: 1366px;
+	height: 1267px;
+	left: 0px;
+	top: 100px;
+    background-color: #8DB0B2;
+    opacity: 31%;
+}
+
+#registro1{
+    position: absolute;
+    overflow: visible;
+	width: 600px;
+    height: 1267px;
+	left: 383px;
+    background-color: #61818C;
+    
+}
+
+#titulo{
+    position: absolute;
+    left: 581px;
+	top: 163px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+
+#Nombre{
+    position: absolute;
+    left: 430px;
+	top: 228px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+
+#nombreinput{
+    position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 40px;
+	left: 430px;
+	top: 264px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#nombreinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#apePa{
+    position: absolute;
+	left: 430px;
+	top: 327px;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+
+#apePainput{
+    position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 40px;
+	left: 430px;
+	top: 361px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#apePainput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#apeMa{
+    position: absolute;
+		left: 430px;
+		top: 424px;
+		overflow: visible;
+		width: 227px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#apeMainput{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 430px;
+		top: 458px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#apeMainput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#dirreccion{
+    position: absolute;
+		left: 430px;
+		top: 521px;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#dirreccioninput{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 430px;
+		top: 557px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#dirreccioninput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#CodPos{
+    position: absolute;
+		left: 430px;
+		top: 641px;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#cp{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 438px;
+		top: 677px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#cp{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#empresa{
+    position: absolute;
+		left: 430px;
+		top: 761px;
+		overflow: visible;
+		width: 321px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#nombreEmpinput{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 430px;
+		top: 795px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#nombreEmpinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#email{
+    position: absolute;
+		left: 430px;
+		top: 879px;
+		overflow: visible;
+		width: 257px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#emailinput{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 430px;
+		top: 915px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#emailinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#contra{
+    position: absolute;
+		left: 430px;
+		top: 980px;
+		overflow: visible;
+		width: 157px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#passwordinput{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 430px;
+		top: 1016px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#passwordinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#tel{
+    position: absolute;
+		left: 430px;
+		top: 1081px;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+}
+
+#telefonoinput{
+    position: absolute;
+		overflow: visible;
+		width: 490px;
+		height: 40px;
+		left: 440px;
+		top: 1117px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#telefonoinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#btnRegistrarse{
+    position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 50px;
+	left: 578px;
+	top: 1225px;
+    text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+    background-color: #073255;
+    color: white;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#etiqueta{
+    position: absolute;
+		left: 439px;
+		top: 1305px;
+		overflow: visible;
+		width: 211px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(0,0,0,1);
+}
+
+#log{
+    position: absolute;
+		left: 679px;
+		top: 1305px;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(7,50,85,1);
+}

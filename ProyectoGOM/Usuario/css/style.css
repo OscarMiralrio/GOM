@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#GOM{
+    margin-left: 20px;
+    width: 152px;
+    float: left;
+}
+
+.menu{
+    top: 506px;
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+
+
+.gom{
+    margin-left: 10px;
+    width: 150px;
+    float: left;
+}
+
+.dropbtn {
+    background-color: white;
+    font-size: 25px;
+    border: none;
+}
+
+.dropdown {
+    padding: 20px;
+    top: 10px;
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #BDDCD7;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 10px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #073255; 
+    color: white;
+    border-radius: 10px;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#gom1, #principal{
+    position: absolute;
+    width: 1366px;
+	height: 624px;
+	left: 0px;
+	top: 100px;
+}
+
+#principal{
+    text-align: center;
+    background-color: #073255;
+    opacity: 0.7;
+}
+
+#titulop{
+    position: absolute;
+    left: 134px;
+	top: 342px;
+    width: 1165px;
+    font-size: 60px;
+    color: white;
+}
+
+#login{
+    position: absolute;
+	left: 384px;
+	top: 506px;
+    width: 257px;
+    height: 40px;
+	text-align: center;
+	font-size: 30px;
+    background-color: #00090E;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#sing-up{
+    position: absolute;
+    left: 809px;
+	top: 506px;
+    width: 257px;
+    height: 40px;
+	text-align: center;
+	font-size: 30px;
+    background-color: #00090E;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#recup{
+    position: absolute;
+	left: 390px;
+	top: 600px;
+    width: 257px;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+
+
+#registAdmin{
+    position: absolute;
+	left: 735px;
+	top: 600px;
+    width: 409px;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}

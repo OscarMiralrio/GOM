@@ -1,0 +1,49 @@
+#fondomision{
+    position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 624px;
+	left: 0px;
+	top: 100px;
+    background-color: #8DB0B2;
+    opacity: 0.31;
+}
+
+#imgmision{
+    position: absolute;
+	width: 633px;
+	height: 305.373px;
+	left: 75px;
+	top: 259px;
+	overflow: visible;
+    border-radius: 20px;
+}
+
+#titulomision{
+    position: absolute;
+		left: 965px;
+		top: 177px;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+}
+
+#pmision{
+    position: absolute;
+    left: 750px;
+	top: 295px;
+	overflow: visible;
+	text-align: justify;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+    word-break: keep-all;
+}

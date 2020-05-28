@@ -1,0 +1,68 @@
+section{
+    text-align: center;
+}
+.catalogo{
+    position: fixed;
+    text-align: center;
+}
+
+.img{
+    width: px;
+    height: 250px;
+    padding-left:  120px;
+    padding-right: 50px;
+}
+
+.desc{
+    width: 850px;
+    height: 235px;
+}
+
+td{
+    padding-top: 60px;
+}
+
+.desc p{
+    text-align: justify;
+}
+
+main{ height: 100%; }
+
+.dcp{
+    padding: 20px;
+    background-color: rgb(141, 176, 178, 0.26);
+    border-radius: 30px;
+}
+
+h3{ text-align: left; }
+
+.addServ{
+    margin-top: 50px;
+    font-size: 20px;
+    background: #075519;
+    color: white;
+    width: 309px;
+    border-radius: 5pc;
+    cursor: pointer;
+}
+
+.btn1{
+    width: 315px;
+    margin-right: 30px;
+    border-radius: 5pc;
+    background-color: #073255;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.btn2{
+    margin-left: 30px;
+    width: 310px;
+    border-radius: 5pc;
+    background: #C90A0A;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximun-scale=1, minimum-scale=1">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/form-login-admin.css">
+    <link rel="stylesheet" href="Usuario/css/fontello.css">
+    <title>Montaje e Instalaciones GOM S.A. de C.V.</title>
+</head>
+
+<body>
+    <header>
+        <div>
+            <img src="../img/GOM.png" alt="" class="imgGOM">
+        </div>
+        <div class="menu">
+            <a href="">QUINES SOMOS</a>
+            <a href="">SERVICIOS</a>
+            <a href="">CONTACTO</a>
+        </div>
+    </header>
+    <main>
+        <section class="contenedor">
+            <div class="login-admin">
+                <label id="tlogin">Registrarse</label>
+                <div id="formulario">
+                    <form action="modelo/registrar.php" method="post">
+                        <label for="" class="etiqueta">Nombre</label><br>
+                        <input type="text" class="input-texto" name="nombre" required> <br>
+                        <label for="" class="etiqueta">Correo Electronico</label><br>
+                        <input type="text" class="input-texto" name="email" required> <br>
+                        <label for="" class="etiqueta">Contrase&ntilde;a</label> <br>
+                        <input type="password" class="input-texto" name="contra" required>
+                        <label for="" class="etiqueta">Telefono</label><br>
+                        <input type="text" class="input-texto" name="tel" required> <br>
+                        <label for="" class="etiqueta">Clave Confidencial</label> <br>
+                        <input type="password" class="input-texto" name="clave" required>
+                        <button type="submit" class="btn" style="width: 312px; left: 100px; margin-bottom: 100px;">Registrar Administrador</button>
+                    </form>
+                </div>
+            </div>
+            <br>
+        </section>
+    </main>
+</body>
+
+</html>

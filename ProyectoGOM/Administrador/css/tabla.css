@@ -1,0 +1,22 @@
+th{
+  background-color: #cbdc8b;
+}
+
+th, td {
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #d6e4ba}
+
+.boton{
+  width: 10%;
+  background-color: #06403D;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.boton:hover{
+  opacity: 0.9;
+}

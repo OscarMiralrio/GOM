@@ -1,0 +1,128 @@
+.cita{
+    width: 1074px;
+    height: 532px;
+    left: 150px;
+    top: 194px;
+    position: absolute;
+    background-color: rgb(45, 58, 65, 0.67);
+}
+
+#titulo{
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 471px;
+    font-size: 30px;
+}
+
+label{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+
+}
+
+#servicio{
+    left: 100px;
+    top: 150px;
+}
+
+#dia{
+    left: 100px;
+    top: 230px;
+}
+
+#mes{
+    left: 190px;
+    top: 230px;
+}
+
+#anio{
+    left: 280px;
+    top: 230px;
+}
+
+#hora{
+    left: 100px;
+    top: 310px;
+}
+
+
+input{
+    background-color: #8DB0B2;
+    border: none;
+}
+
+#inputservicio{
+    position: absolute;
+    left: 100px;
+    top: 185px;
+    height: 30px;
+    width: 300px;
+}
+
+#inputdia{
+    position: absolute;
+    left: 100px;
+    top: 265px;
+    height: 30px;
+    width: 50px;
+}
+
+#inputmes{
+    position: absolute;
+    left: 190px;
+    top: 265px;
+    height: 30px;
+    width: 50px;
+}
+
+#inputanio{
+    position: absolute;
+    left: 280px;
+    top: 265px;
+    height: 30px;
+    width: 50px;
+}
+
+#inputhora{
+    position: absolute;
+    left: 100px;
+    top: 345px;
+    height: 30px;
+    width: 150px;
+}
+
+#imprimir{
+    position: absolute;
+    left: 640px;
+    top: 224px;
+    width: 274px;
+    background-color: #D41616;
+    color: white;
+    font-size: 22px;
+    border-radius: 20px;
+}
+
+#agendar{
+    position: absolute;
+    left: 100px;
+    top: 454px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    border-radius: 20px;
+}
+
+#btn{
+    position: absolute;
+    width: 150px;
+    left: 650px;
+    top: 647px;
+    background-color: #073255;
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+}

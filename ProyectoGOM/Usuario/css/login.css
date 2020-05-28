@@ -1,0 +1,155 @@
+
+#fondologin{
+    position: absolute;
+    overflow: visible;
+	width: 1366px;
+	height: 624px;
+	left: 0px;
+    top: 100px;
+    background-color: #8DB0B2;
+    opacity: 0.31;
+}
+
+
+#fonlog{
+    position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 624px;
+    left: 383px;
+    top: 100px;
+    background-color:#61818C;
+    opacity: 0.18;
+}
+
+#titulo{
+    position: absolute;
+	left: 563px;
+	top: 133px;
+	overflow: visible;
+	width: 241px;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+
+#email{
+    position: absolute;
+	left: 427px;
+	top: 232px;
+	overflow: visible;
+	width: 257px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+
+#emailinput{
+    position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 40px;
+	left: 427px;
+	top: 270px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#emailinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#passwd{
+    position: absolute;
+	left: 427px;
+	top: 363px;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+
+#passinput{
+    position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 40px;
+	left: 427px;
+	top: 407px;
+    background-color: rgba(97, 129, 140, 0.0);
+    font-size: 20px;
+}
+
+#passinput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#inisesion{
+    position: absolute;
+	overflow: visible;
+	width: 211px;
+	height: 50px;
+	left: 578px;
+	top: 509px;
+    font-size: 25px;
+    border-radius: 100px;
+    background-color: #073255;
+    color: white;
+    cursor: pointer;
+}
+
+#loginAdmin{
+    position: absolute;
+	left: 536px;
+	top: 601px;
+	overflow: visible;
+	width: 296px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(7,50,85,1);
+}
+
+#lb{
+    position: absolute;
+	left: 438px;
+	top: 669px;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+
+#regist{
+    position: absolute;
+	left: 691px;
+	top: 669px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(7,50,85,1);
+}

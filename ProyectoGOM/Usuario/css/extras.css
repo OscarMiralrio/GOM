@@ -1,0 +1,49 @@
+#fondoRecu{
+    position: absolute;
+    overflow: visible;
+	width: 1366px;
+	height: 624px;
+	left: 0px;
+    top: 100px;
+    background-color: #8DB0B2;
+    opacity: 0.31;
+}
+
+
+#fonreCu{
+    position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 624px;
+    left: 383px;
+    top: 100px;
+    background-color:#61818C;
+    opacity: 0.18;
+}
+#imagen{
+  position: absolute;
+  width: 25%;
+  overflow: visible;
+  top: 115px;
+  left: 520px;
+}
+
+#msg{
+  position: absolute;
+  overflow: visible;
+  top: 475px;
+  left: 543px;
+}
+
+#boton{
+  position: absolute;
+  overflow: visible;
+  width: 150px;
+  top: 525px;
+  left: 600px;
+  font-size: 25px;
+  border-radius: 100px;
+  background-color: #073255;
+  color: white;
+  cursor: pointer;
+}

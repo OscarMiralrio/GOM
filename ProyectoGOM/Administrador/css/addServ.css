@@ -1,0 +1,61 @@
+
+.agregar{
+    left: 234px;
+    position: relative;
+    width: 899px;
+    height: 567px;
+    background: rgb(97,129,140,0.18);
+}
+
+.etiqueta1{
+    position: relative;
+    margin: 20px;
+    font-size: 30px;
+    margin-left: 52px;
+    margin-top: 100px;
+}
+
+.nombre{
+    width: 800px;
+    margin-left: 52px;
+    height: 55px;
+    margin-top: 10px;
+    font-size: 30px;
+    border: none;
+}
+
+.etiqueta2{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 52px;
+}
+#textArea{
+    margin-left: 52px;
+    width: 800px;
+    height: 157px;
+    font-size: 25px;
+    border: none;
+}
+
+.btn2{ text-align: center; }
+
+#boton {
+    margin-top: 114px;
+    font-size: 25px;
+    width: 309px;
+    border-radius: 5pc;
+    background: #075519;
+    color: white;
+    cursor: pointer;
+    
+}
+
+#boton2{
+    margin-top: 114px;
+    font-size: 25px;
+    width: 324px;
+    border-radius: 5pc;
+    background: #073255;
+    color: white;
+    cursor: pointer;
+}

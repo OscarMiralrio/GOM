@@ -1,0 +1,76 @@
+#fondocatalogo{
+    position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 2000px;
+	left: 0px;
+	top: 100px;
+    background-color: rgb(141, 176, 178, 0.31);
+}
+
+#tituloc{
+    position: absolute;
+	left: 546px;
+	top: 130px;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+
+#servicios{
+    position: absolute;
+    left: 120px;
+    top: 259px;
+
+}
+
+
+div{
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+}
+
+td{
+    border-bottom: 10px solid  rgb(141, 176, 178, 0);
+}
+
+.dcp{
+    margin: 25px;
+    background-color:  rgb(141, 176, 178, 0.31);
+    border-radius: 20px;
+    padding: 25px;
+}
+
+.desc{
+    width: 800px;
+}
+
+td img{
+    width: 200px;
+    height: 250px;
+    margin-right: 80px;
+}
+
+
+.btn{
+    width: 182px;
+    left: 400px;
+    background-color: #073255;
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,54 @@
+#fondometas{
+    position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 624px;
+	left: 0px;
+	top: 100px;
+    background-color: #8DB0B2;
+    opacity: 0.31;
+}
+
+#imgmetas{
+    position: absolute;
+	width: 628px;
+	height: 398px;
+	left: 664px;
+	top: 167px;
+	overflow: visible;
+    border-radius: 20px;
+}
+
+#titulometas{
+    position: absolute;
+	left: 235px;
+	top: 167px;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+
+#limetas{
+    position: absolute;
+	left: 78px;
+	top: 240px;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+
+#limetas li{
+    margin: 33px;
+}

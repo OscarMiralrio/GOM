@@ -1,0 +1,54 @@
+#fondobj{
+    position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 624px;
+	left: 0px;
+	top: 100px;
+    background-color: #8DB0B2;
+    opacity: 0.31;
+}
+
+#imgobj{
+    position: absolute;
+	width: 633px;
+	height: 414px;
+	left: 50px;
+	top: 205px;
+	overflow: visible;
+    border-radius: 20px;
+}
+
+#titulobj{
+    position: absolute;
+		left: 940px;
+		top: 177px;
+		overflow: visible;
+		width: 209px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(0,0,0,1);
+}
+
+#liobj{
+    position: absolute;
+		left: 801px;
+		top: 240px;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+}
+
+#liobj li{
+    margin: 33px;
+}

@@ -1,0 +1,50 @@
+#fondovision{
+    position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 624px;
+	left: 0px;
+	top: 100px;
+    background-color: #8DB0B2;
+    opacity: 0.31;
+}
+
+#imgvision{
+    position: absolute;
+	width: 581px;
+	height: 461px;
+	left: 716px;
+	top: 200px;
+	overflow: visible;
+    border-radius: 20px;
+}
+
+#titulovision{
+    position: absolute;
+	left: 271px;
+	top: 177px;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+
+#pvision{
+    position: absolute;
+    left: 68px;
+    width: 541px;
+	top: 295px;
+	overflow: visible;
+	text-align: justify;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+    word-break: keep-all;
+}
